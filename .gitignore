@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/AOIS7.iml
+/.idea/
